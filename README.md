@@ -5,5 +5,5 @@ Disclaimer: hello I'm  not sure this answers are accurate but this code gives an
   
 </b>
 </i>
-## compile this by > node filename 
-### eg.. node hash.js
+# compile this by > node filename 
+# # # eg.. node hash.js
