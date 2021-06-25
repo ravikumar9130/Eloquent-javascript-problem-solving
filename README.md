@@ -6,4 +6,4 @@ Disclaimer: hello I'm  not sure this answers are accurate but this code gives an
 </b>
 </i>
 <h2> compile this by > node filename </h2>
-<h3>eg.. node hash.js</h3>
+<h3>eg.. node hash.j</h3>
